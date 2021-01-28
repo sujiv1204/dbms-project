@@ -124,8 +124,6 @@
     }, 1500, 'easeInOutExpo');
     return false;
   });
-
-
   // Init AOS
   function aos_init() {
     AOS.init({
